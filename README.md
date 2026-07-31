@@ -63,7 +63,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**MD Arfakshad**
+**Md Arfakshad**
 
 B.Tech Computer Science & Engineering (2026)  
 Integral University, Lucknow
