@@ -1,18 +1,23 @@
 # ❤️ Heart Disease Prediction
 
-An interactive Machine Learning web application that predicts the likelihood of heart disease based on patient health information. The application uses a K-Nearest Neighbors (KNN) classification model and provides real-time predictions through a user-friendly Streamlit interface.
+An interactive Machine Learning web application that predicts the likelihood of heart disease based on patient health information. The application uses a K-Nearest Neighbors (KNN) classification model and provides real-time predictions through a modern Streamlit interface.
 
 ## 🚀 Live Demo
 
-https://YOUR-STREAMLIT-APP.streamlit.app
+https://heart-disease-prediction-rkwpewsamvgz36azsnjuqc.streamlit.app/
+
+## 💻 GitHub Repository
+
+https://github.com/Arfakshad/Heart-Disease-Prediction
 
 ## 📌 Features
 
 - ❤️ Heart Disease Risk Prediction
-- 📊 Interactive and Responsive Streamlit Interface
-- 🩺 Patient Health Data Input
+- 🩺 Patient Health Information Input
 - ⚡ Instant Prediction Results
 - 🤖 K-Nearest Neighbors (KNN) Machine Learning Model
+- 📱 Responsive Streamlit Interface
+- 🎨 Modern User Interface
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +54,7 @@ Heart-Disease-Prediction/
 │── README.md
 ```
 
-## ▶️ Run Locally
+## ▶️ Installation
 
 ```bash
 git clone https://github.com/Arfakshad/Heart-Disease-Prediction.git
@@ -61,9 +66,21 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 📈 Model
+
+- Algorithm: K-Nearest Neighbors (KNN)
+- Problem Type: Binary Classification
+- Output:
+  - ✅ Low Risk of Heart Disease
+  - ⚠️ High Risk of Heart Disease
+
 ## 👨‍💻 Author
 
-**Md Arfakshad**
+**MD Arfakshad**
 
 B.Tech Computer Science & Engineering (2026)  
 Integral University, Lucknow
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
